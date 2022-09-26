@@ -1,0 +1,52 @@
+div {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  div ul li {
+    display: inline-block;
+    margin: 10px;
+  }
+  
+  img {
+    width: 300px;
+   
+  }
+  .menu {
+    border-radius: 20px;
+    height: 40px;
+    color:rgb(21, 0, 138);
+    align-items: center;
+    justify-content: center;
+    
+    background-color: rgb(243, 243, 243);
+
+  }
+  .menu a {
+    text-decoration: none;
+  }
+  .menu a:hover {
+color:rgb(43, 214, 226);
+
+  }
+
+  .baslik {
+    color:brown;
+  }
+  .baslik2 {
+    color:rgb(255, 145, 0);
+  }
+  .cars {
+    margin: 20px;
+    border-radius: 20px;
+    color:rgba(105, 0, 0, 0.692);
+    align-items: center;
+    justify-content: center;
+  }
+  .li {
+    list-style-position: inside;
+  }
